@@ -1,2 +1,2 @@
 PyJWT
-base64
+pybase64
